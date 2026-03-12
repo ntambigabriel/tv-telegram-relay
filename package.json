@@ -1,0 +1,9 @@
+{
+  "name": "po3-signal-bot",
+  "version": "1.0.0",
+  "description": "Power of 3 Model A signal relay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
